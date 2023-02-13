@@ -1,0 +1,7 @@
+set path  in .profile (path where the scripts are)
+STEP - 1
+  >> nano ~/.profile
+STEP - 2
+  #INSIDE .profile
+    export PATH="$PATH:$HOME/PATH_TO_THE_SCRIPTS"
+   
