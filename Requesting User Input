@@ -2,3 +2,13 @@ TO set parameter defaultvalue
 
 
 ${parameter:-defaultvalue}
+
+
+READ COMMAND
+
+default variable which the input saved is $REPLY
+
+GETTING USER INPUT
+
+read -p "Message to be displayed  : " variable_to_store
+
