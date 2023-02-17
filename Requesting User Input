@@ -19,3 +19,18 @@ PARAMETERS
 -s : hides content
 -t <time> : declare time for waiting
 -p :to prompt message
+
+
+using SELECT
+
+
+PS3="Question to be asked : "
+select <vairable_to_be_stored> in <value1> <value2> <value3>;
+do 
+#code1
+#code2
+#...
+#code n
+
+break
+done
