@@ -12,3 +12,10 @@ GETTING USER INPUT
 
 read -p "Message to be displayed  : " variable_to_store
 
+
+PARAMETERS
+
+-s -t -p
+-s : hides content
+-t <time> : declare time for waiting
+-p :to prompt message
