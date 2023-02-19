@@ -1,0 +1,10 @@
+type -a <filename>
+
+
+#-Internal commands
+
+help
+
+#-External commands
+
+man info
