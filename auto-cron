@@ -11,3 +11,8 @@ sudo service cron restart
 
 #to edit cron
 crontab -e
+
+
+#FOR MORE REFERENCE
+
+https://crontab.guru/
