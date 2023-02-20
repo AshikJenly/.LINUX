@@ -9,3 +9,6 @@ at -l
 at -r <job id>
 
 
+#TO RUN THE SCRIPTS
+
+at <time> -f script.sh
