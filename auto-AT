@@ -1,0 +1,11 @@
+#TO DECLARE WORK
+at <time>
+echo "write command to execute"
+
+#TO LIST THE JOBS
+at -l
+
+#TO STOP A JOB 
+at -r <job id>
+
+
