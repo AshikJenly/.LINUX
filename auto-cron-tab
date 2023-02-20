@@ -1,0 +1,11 @@
+#TO run weekly /daily
+
+put all the scripts inside this directory
+  /etc/cron.weekly/script
+  /etc/cron.daily/script
+  
+ 
+ #To run all our scripts inside a folder
+ 
+ crontab -e
+ * * * * * run-parts ~/our_dir/where_the_scripts/present --report
