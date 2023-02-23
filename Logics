@@ -1,3 +1,9 @@
 
 LOGICS
 
+if [ expression]; then
+  #statement
+elif [ expression ]; then
+  #statement
+else 
+  #statement
