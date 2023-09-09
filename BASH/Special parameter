@@ -1,0 +1,10 @@
+SPECIAL PARAMTERS
+
+
+$# - gives no of parameters 
+$0-
+$*-gives all parameters
+$@-gives all parameters
+
+"$@"-gives all parameter without removing quotes
+    eg) "ashik jenly" as "ashik Jenly"  
