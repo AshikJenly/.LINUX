@@ -1,0 +1,26 @@
+#TO DECLARE WORK
+at <time>
+echo "write command to execute"
+
+#TO LIST THE JOBS
+at -l
+
+#TO STOP A JOB 
+at -r <job id>
+
+
+#TO RUN THE SCRIPTS
+
+at <time> -f script.sh
+
+
+#Date formate
+at <time> <day> -f file.sh
+at <time> <dd/mm/yyyy> -f file.sh
+at now + 2 days
+at now + 2 minutes
+
+#limitation
+
+cant able to schedule for every monday,likewise
+system must be in on
