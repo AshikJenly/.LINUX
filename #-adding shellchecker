@@ -1,7 +1,0 @@
-sudo apt install shellcheck
-
-
-#to use shell check
-
-shellcheck filename.sh
-
