@@ -1,8 +1,0 @@
-1-Input
-2-output
-3-error
-&-error and input
-
-
-
-echo "Will Write this inside this text file" &>>errorAndOutput.txt
