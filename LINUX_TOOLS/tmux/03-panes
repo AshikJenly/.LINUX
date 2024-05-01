@@ -1,0 +1,7 @@
+#Switch panes
+
+arrows up,left,right,down
+
+# easy switch 
+ctrl + b q #shows the index 
+ctrl + b q index 
