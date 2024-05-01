@@ -1,0 +1,6 @@
+# removing pane
+
+ctrl + b x
+
+# remove all 
+tmux kill-server
