@@ -6,3 +6,5 @@
   
 ![kindpng_2901940](https://github.com/AshikJenly/.LINUX/assets/116492348/94e7a327-88e3-4ced-947b-5048372c7964)
 EAST OR WEST LINUX IS THE BEST
+
+As a ___, I want to ___ , so that I am ___ . 
